@@ -1,4 +1,8 @@
 ## Hi there 👋
+## Juggling through life, skills and college.
+## Currently exploring AI/ML with Andrew NG and Web Development with Odin Project.
+## Target 1500 in Codeforces , 1700 in Codechef and 1800 in Leetcode.
+## Best Wishes....
 
 <!--
 **Plash-Sharma/Plash-Sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
